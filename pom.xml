@@ -12,8 +12,8 @@
     <groupId>org.webjars</groupId>
     <artifactId>cat-log4angular</artifactId>
     <version>1.0.4-SNAPSHOT</version>
-    <name>cat-angular</name>
-    <description>WebJar for cat-angular</description>
+    <name>cat-log4angular</name>
+    <description>WebJar for cat-log4angular</description>
     <url>http://webjars.org</url>
 
     <properties>
